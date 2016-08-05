@@ -1,2 +1,2 @@
 # hello-world
-A repository
+A change in commit message.
